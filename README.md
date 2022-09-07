@@ -17,5 +17,5 @@ cd remote && yarn && yarn start
 
 //2. host 서버 키기
 cd .. // root로 가서
-cd remote && yarn && yarn dev
+cd host && yarn && yarn dev
 ```
